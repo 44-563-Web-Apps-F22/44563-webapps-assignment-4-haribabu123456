@@ -1,0 +1,145 @@
+p.speech{
+
+color: black;
+font: 14px;
+
+}
+p1.directions{
+    font: 'Times New Roman';
+    color:brown;
+    background-color: beige;
+}
+.directions{
+    font: 'Times New Roman';
+    color:brown;
+    background-color: beige;
+}
+
+p2.DANCE{
+
+    color: black;
+    font: 15px;
+    background-color: blanchedalmond;
+    }
+p3.song{
+
+        color: black;
+        font: 15px;
+        background-color:goldenrod;
+        }
+
+    h4.VIT:hover{
+        color: red;
+        font: 14px;
+        text-shadow: 0 0 3px #FF0000;
+        box-shadow: 10px 10px lightblue;
+        
+
+    }
+   h4.ALL:hover{
+    color: blueviolet;
+    font: 14px;
+    text-shadow: 0 0 3px #FF0000;
+    box-shadow: 10px 10px lightblue;
+
+
+    }
+    h4.GUI:hover{
+        color: green;
+        font: 13px;
+        text-shadow: 0 0 3px #FF0000;
+        box-shadow: 10px 10px lightblue;
+        
+    
+        }
+        h4.GIA:hover {
+            color:darkcyan;
+            font: 13px;
+            text-shadow: 0 0 3px #FF0000;
+            box-shadow: 10px 10px lightblue;
+            
+        }
+        h4.TESS:hover {
+            color: violet;
+            font: 15px;
+            text-shadow: 0 0 3px #FF0000;
+            box-shadow: 10px 10px lightblue;
+            
+        
+            }
+        
+            h4.MAR:hover{
+                color: brown;
+                font: 13px;
+                text-shadow: 0 0 3px #FF0000;
+                box-shadow: 10px 10px lightblue;
+               
+            
+                }
+
+            .directions:hover{
+                background-color:burlywood;
+                color:blueviolet;
+            }
+                
+            h4:hover{
+                background-color: aquamarine;
+                color: blueviolet;
+            }
+            h4.CHORUS{
+                color:coral;
+                font: 13px;
+               
+            
+                }
+                h4.TESS:hover{
+                    color:darkkhaki;
+                    font: 13px;
+                    text-shadow: 0 0 3px #FF0000;
+                    box-shadow: 10px 10px lightblue;
+                   
+                
+                    }
+
+                    h4.GIA:hover{
+                        color:darkmagenta;
+                        font: 13px;
+                        text-shadow: 0 0 3px #FF0000;
+                        box-shadow: 10px 10px lightblue;
+                    
+                        }
+                        h4.GIRLS:hover{
+                            color:fuchsia;
+                            font: 13px;
+                            text-shadow: 0 0 3px #FF0000;
+                            box-shadow: 10px 10px lightblue;
+                           
+                        
+                            }
+
+                    
+            
+
+
+            table {
+                border-collapse: collapse;
+                width: 80%;
+              }
+              
+              th, td {
+                text-align: left;
+                padding: 10px;
+              }
+            
+              tr:nth-child(even){
+                background-color:aquamarine;
+              }
+            
+              tr:hover{
+                background-color:chartreuse;
+              }
+                th {
+                    background-color:darkorchid;
+                    color: azure;
+                    
+            }
